@@ -1,7 +1,5 @@
-flask
+Flask
+gunicorn
+pyttsx3
 wikipedia
 pywhatkit
-duckduckgo-search
-pyttsx3
-requests
-beautifulsoup4

@@ -1,0 +1,7 @@
+flask
+wikipedia
+pywhatkit
+duckduckgo-search
+pyttsx3
+requests
+beautifulsoup4
